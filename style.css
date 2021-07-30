@@ -142,6 +142,7 @@ section#extra {
 ul {
     display: inline-block;
     list-style: none;
+    margin: 0;
 }
 
 ul > li::before {
